@@ -1,2 +1,2 @@
 # AirThings_DataAnalysis
-Machine Learning in Action: Decoding Radon Levels with XGBoost and Airthings Sensors
+Analysis and prediction for radon levels based on data from AirThings sensor
